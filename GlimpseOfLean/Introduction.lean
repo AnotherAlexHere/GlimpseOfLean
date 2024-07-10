@@ -11,6 +11,8 @@ If you have a small screen, you can press
 (bollu edited this here.
 bolly edited again
 )
+-Sid
+
 Welcome to this tutorial designed to give you a glimpse of Lean in a couple of hours.
 
 First let us see what a Lean proof looks like, without trying to understand any syntactical
