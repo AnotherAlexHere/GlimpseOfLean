@@ -8,6 +8,7 @@ namespace Introduction
 If you have a small screen, you can press
 `alt-Z` (or `option-Z`) to enable word wrap.
 
+(bollu edited this here.)
 Welcome to this tutorial designed to give you a glimpse of Lean in a couple of hours.
 
 First let us see what a Lean proof looks like, without trying to understand any syntactical
