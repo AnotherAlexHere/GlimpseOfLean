@@ -115,7 +115,7 @@ right-hand side.
 -/
 
 example (a b c : ℝ) : exp (a + b - c) = (exp a * exp b) / (exp c * exp 0) := by {
-  sorry
+  rw[exp_zero, mul_one, exp_sub, exp_add]
 }
 
 /-
